@@ -1,6 +1,6 @@
 class Person:
     def greet(self) -> None:
-        print('Hello sejfn Red Hatter!')
+        print('Hello world Red Hatter!')
 
 pablo = Person()
 
